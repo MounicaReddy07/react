@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "name": "MounicaReddy",
+      "username": "mounicareddy_007",
+      "email": "mounicareddyk2001@gmail.com",
+      "phone": "8573628509",
+      "id": 2
+    },
+    {
+      "name": "Ananya",
+      "username": "anaya",
+      "email": "anaya@gmail.com",
+      "phone": "8908765451",
+      "id": 3
+    },
+    {
+      "name": "Rohit",
+      "username": "rohit_006",
+      "email": "rohit@gmail.com",
+      "phone": "8976548505",
+      "id": 4
+    }
+  ]
+}
